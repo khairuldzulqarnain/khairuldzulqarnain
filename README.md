@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @khairuldzulqarnain
-- 👀 I’m interested in Big Data
-- 🌱 I’m currently learning Data Engineer
-- 💞️ I’m looking to collaborate on Azure Data
+- 👀 I’m interested in Automation
+- 🌱 I’m currently learning UIPath
+- 💞️ I’m looking to collaborate on UIPath
 - 📫 How to reach me email my at khairuldzulqarnain@gmail.com
 
 <!---
