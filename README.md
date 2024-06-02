@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @khairuldzulqarnain
 - 👀 You can visit my Project Website  http://www.khairuldzulqarnain.com
-- 👀 I’m interested in Automation
-- 🌱 I’m currently learning UIPath
-- 💞️ I’m looking to collaborate on UIPath
+- 👀 I’m interested in Automation and Artificial Intelligence
+- 🌱 I’m currently learning UIPath, Machine Learning and Deep Learning
+- 💞️ I’m looking to collaborate on UIPath, Data Science
 - 📫 How to reach me email my at khairuldzulqarnain@gmail.com
 
 <!---
